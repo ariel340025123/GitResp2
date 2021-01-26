@@ -11,4 +11,5 @@ public class Student {
     private String name;
     private String height;
     private String hhh;
+    private String weight;
 }
